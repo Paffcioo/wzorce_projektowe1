@@ -10,4 +10,4 @@ nAd(list1, list3)
 nPr(list2[1])
 
 nameMultiplier(list1)
-# print('Et2:' + nMu(list1))
+# print('Bez sensu')
