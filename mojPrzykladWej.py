@@ -10,4 +10,4 @@ nAd(list1, list3)
 nPr(list2[1])
 
 nameMultiplier(list1)
-# print('A może jednak?')
+# print('A może nie?')
