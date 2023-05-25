@@ -44,10 +44,10 @@ def nameMultiplier(list):
     # return inner
 
 
-# nameAdder(name_multi, input('Podaj jakieś imię:'))
-# nameAdder(name_multi, 'name2')
-# nameAdder(name_multi, 'Name3')
+nameAdder(name_multi, input('Podaj jakieś imię:'))
+nameAdder(name_multi, 'name2')
+nameAdder(name_multi, 'Name3')
 
-# nameAdder(name_multi, name2)
-# nameMultiplier(name_multi)
-# print('Ostateczna lista wsadowa:', name_multi)
+nameAdder(name_multi, name2)
+nameMultiplier(name_multi)
+print('Ostateczna lista wsadowa:', name_multi)
